@@ -1,0 +1,27 @@
+<resources>
+    <string name="hint_dob">Enter Age</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_email">Email Id</string>
+    <string name="btn_sign_up">Register</string>
+    <string name="err_msg_name">Please enter a Name</string>
+    <string name="err_msg_required">Valid Input Required</string>
+    <string name="err_msg_email">Please enter a Valid Email</string>
+    <string name="err_msg_password">Enter a Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_link_signup">Don\'t have an account? Register</string>
+    <string name="btn_link_login">Already have an account? Login</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="contact_num">Contact Number</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="publisher">Publisher</string>
+    <string name="user">User</string>
+    <string name="app_name">Application Name</string>
+    <string name="app_desc">Application Description</string>
+    <string name="app_version">Application Version</string>
+    <string name="upload">Upload</string>
+    <string name="btn_create">Create</string>
+    <string name="btn_install">Install</string>
+    <string name="btn_uninstall">Uninstall</string>
+</resources>
